@@ -1,0 +1,7 @@
+{
+    "settings": {
+        "al.assemblyProbingPaths": [
+            "./.netpackages"
+        ]
+    },
+}
